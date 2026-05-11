@@ -2,9 +2,9 @@
 
 <img src="https://octodex.github.com/images/Professortocat_v2.png" align="right" height="200px" />
 
-Hey jankokarlin!
+Hey, my name is jankokarlin!
 
-Mona here. I'm done preparing your exercise. Hope you enjoy! 💚
+This is my firs text here! 💚
 
 Remember, it's self-paced so feel free to take a break! ☕️
 
